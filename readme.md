@@ -4,8 +4,8 @@ Ada dua versi cara menginstall source code ini.
 
 ---Via Desktop/Laptop---
 Instal dulu Node JS dan NPM
-Install juga Visual Studio Code
-Lalu buka di visual studio code
+\n Install juga Visual Studio Code
+\n Lalu buka di visual studio code
 Lengkapi dulu kredensial seperti Bot Token Telegram kamu.
 Cara buat bot telegram dengan cari "Bot Father" di telegram, lalu ikuti arahannya sampai dapat Tokennya.
 Lengkapi juga Spreadsheet ID dengan cara buat spreadsheet lalu setelah url /d/ itu adalah tokennya.
